@@ -254,7 +254,9 @@ else:
 st.sidebar.markdown("---")
 st.sidebar.info("""
 **📞 Soporte Técnico:**
-- Email: larissac@ucm.es
+- Email: soporte@universidad.edu
+- Teléfono: +34 900 123 456
+- Horario: L-V 9:00-18:00
 """)
 
 st.markdown("---")
